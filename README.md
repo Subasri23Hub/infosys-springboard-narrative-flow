@@ -153,9 +153,9 @@ Full phase-wise technical documentation authored by the team lead is available i
 
 | Document | Description |
 |----------|-------------|
-| `inkforge_documentation.docx` | Phase 1 — UI & Streamlit implementation |
-| `inkforge_phase2_documentation.docx` | Phase 2 — Ollama integration & prompt engineering |
-| `inkforge_demo_script.docx` | Live demo script with timing and sample responses |
+| `Phase1_Streamlit & UI.docx` | Phase 1 — UI & Streamlit implementation |
+| `Phase2_Olama Integration.docx` | Phase 2 — Ollama integration & prompt engineering |
+| `Phase3_The Guardrails.docx` | Phase 3 - The guardrail implementation |
 
 <br>
 
