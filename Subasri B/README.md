@@ -4,14 +4,6 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-111008?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.x-B8860B?style=flat-square&logo=streamlit&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-111008?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-C5BDB0?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-27AE60?style=flat-square)
-
-<br>
-
 ---
 
 ## What is INKFORGE?
@@ -184,16 +176,6 @@ Full technical documentation is available in the `docs/` folder:
 | `inkforge_documentation.docx` | Phase 1 — Complete UI and Streamlit implementation walkthrough |
 | `inkforge_phase2_documentation.docx` | Phase 2 — Ollama integration, prompt engineering, streaming architecture |
 | `inkforge_demo_script.docx` | Live demo presenter script with timing cues and sample responses |
-
-<br>
-
----
-
-## Screenshots
-
-| The Forge | Book Viewer |
-|-----------|------------|
-| Three-panel writing workspace with live AI generation | Dual-page open book spread with pagination |
 
 <br>
 
