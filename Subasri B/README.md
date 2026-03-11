@@ -88,9 +88,9 @@ Subasri/
 ├── story_engine.py                 # Prompt engineering, genre/tone/action configs, guardrails
 ├── auth.py                         # Authentication, session management, history I/O
 └── docs/
-    ├── inkforge_documentation.docx         # Phase 1 — UI & Streamlit Documentation
-    ├── inkforge_phase2_documentation.docx  # Phase 2 — Ollama LLM Integration
-    └── inkforge_demo_script.docx           # Live Demo Script
+    ├── Phase1_Streamlit & UI.docx         # Phase 1 — UI & Streamlit Documentation
+    ├── Phase2_Olama Integration.docx  # Phase 2 — Ollama LLM Integration
+    └── Phase3_The Guardrails.docx           # Live Demo Script
 ```
 
 <br>
@@ -173,9 +173,9 @@ Full technical documentation is available in the `docs/` folder:
 
 | Document | Contents |
 |----------|---------|
-| `inkforge_documentation.docx` | Phase 1 — Complete UI and Streamlit implementation walkthrough |
-| `inkforge_phase2_documentation.docx` | Phase 2 — Ollama integration, prompt engineering, streaming architecture |
-| `inkforge_demo_script.docx` | Live demo presenter script with timing cues and sample responses |
+| `Phase1_Streamlit & UI.docx` | Phase 1 — Complete UI and Streamlit implementation walkthrough |
+| `Phase2_Olama Integration.docx` | Phase 2 — Ollama integration, prompt engineering, streaming architecture |
+| `Phase3_The Guardrails.docx` | Live demo presenter script with timing cues and sample responses |
 
 <br>
 
