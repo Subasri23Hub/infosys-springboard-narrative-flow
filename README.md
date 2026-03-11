@@ -24,10 +24,10 @@ This repository is the team submission for the **Infosys Springboard** programme
 
 ---
 ## Collaborators
-Bhargavi Anakapalli - https://github.com/BhargaviAnakapalli
-Nithya S - https://github.com/Nithya2405
-Ramya Jayaram - https://github.com/ramyajayaram2006
-SriHarini - https://github.com/Sriharini5
+- Bhargavi Anakapalli - https://github.com/BhargaviAnakapalli
+- Nithya S - https://github.com/Nithya2405
+- Ramya Jayaram - https://github.com/ramyajayaram2006
+- SriHarini - https://github.com/Sriharini5
 
 <br>
 
@@ -54,7 +54,7 @@ SriHarini - https://github.com/Sriharini5
 ```
 infosys-springboard-narrative-flow/
 │
-├── Subasri B/               ← Team Lead — full implementation + docs
+├── Subasri B/               ← Team Lead 
 │   ├── app.py
 │   ├── ui_components.py
 │   ├── story_engine.py
