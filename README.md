@@ -60,9 +60,9 @@ infosys-springboard-narrative-flow/
 │   ├── story_engine.py
 │   ├── auth.py
 │   └── docs/
-│       ├── inkforge_documentation.docx
-│       ├── inkforge_phase2_documentation.docx
-│       └── inkforge_demo_script.docx
+│       ├── Phase1_Streamlit & UI.docx
+│       ├── Phase2_Olama Integration.docx
+│       └── Phase3_The Guradrails.docx
 │
 ├── Bhargavi Anakapalli/
 ├── Dharmeswaran/
