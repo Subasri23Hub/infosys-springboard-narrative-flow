@@ -1,0 +1,224 @@
+{
+  "logged_in": true,
+  "auth_username": "Bhargavi@",
+  "auth_bio": "I shape dreams into narratives.",
+  "auth_pic": null,
+  "_profile_synced": true,
+  "user_profile": {
+    "username": "Bhargavi@",
+    "password": "password",
+    "bio": "I shape dreams into narratives."
+  },
+  "chats": {
+    "Story 1": [],
+    "Story 2": [
+      {
+        "role": "user",
+        "content": "Begin with a mysterious letter at midnight",
+        "ts": "01:13"
+      },
+      {
+        "role": "assistant",
+        "content": "As the clock struck midnight, a chill crept over the sleeping town of Whisperwood, like a whispered secret carried on the wind. It was as if the very darkness itself had stirred, awakening to deliver an omen. In the silence, a lone figure emerged from the shadows. With deliberate slowness, they approached the old oak door of Ravenhurst Manor, the ancient stronghold of the enigmatic Lord Arinthal.\n\nAs the figure reached out to grasp the worn iron knocker in the shape of a raven's head, a faint glow began to emanate from within the manor's walls. The air seemed to thicken, heavy with anticipation, as if the very fabric of reality was bending to accommodate the visitor. A letter, penned on vellum yellowed by age and mystery, materialized in the figure's hand. Sealed with a wax impress bearing the emblem of Ravenhurst Manor – a raven perched upon a crescent moon – it seemed to radiate an otherworldly power.\n\nThe wind died, the stars twinkled brighter, and the darkness itself seemed to hold its breath as the figure broke the seal, releasing the secrets contained within. The midnight air was now heavy with portent, as if the very course of Whisperwood's fate hung precariously in balance, waiting for the tale that would unfold from the words on the page...",
+        "ts": "01:14"
+      },
+      {
+        "role": "user",
+        "content": "lasya sat on a bench and started thinking about her life , enjoy in college life, relizese that her college is going to be finish soon ",
+        "ts": "01:32"
+      },
+      {
+        "role": "assistant",
+        "content": "As Lasya settled onto the weathered wooden slats of the campus bench, the setting sun cast a warm orange glow over the quad. The scent of freshly cut grass and the distant hum of students laughing and chatting mingled with the rustling of leaves, creating a sense of serenity. But as she gazed out at the familiar landscape, her thoughts began to drift away from the present moment.\n\nHer mind wandered back to the countless nights spent studying under the stars, the laughter-filled moments with friends in the cafeteria, and the countless cups of coffee consumed during all-nighters. It was hard to believe that it had all flown by so quickly. Soon, she would be leaving this place behind, just like the leaves that clung to her bench for dear life.\n\nLasya's thoughts were interrupted by a gentle breeze rustling her hair, carrying with it the whispers of memories yet to come. She smiled wistfully, lost in the nostalgia of it all. What lay ahead? Would she find love, or would her heart remain as elusive as the autumn leaves that danced around her?\n\nAs the stars began their twinkling waltz across the night sky, Lasya's gaze returned to the present. The campus was alive and vibrant, yet she couldn't shake the feeling that a chapter of her life was coming to a close. Little did she know, the mysterious letter waiting in her dorm room would soon set her on a path that would change everything...",
+        "ts": "01:33"
+      },
+      {
+        "role": "user",
+        "content": "Write Chapter 1 — first pen starts. Events: As Lasya settled onto the weathered wooden slats of the campus bench, the setting sun cast a warm orange glow over the quad. The scent of freshly cut grass and the distant hum of students laughing and chatting mingled with the rustling of leaves, creating a sense of serenity. But as she gazed out at the familiar landscape, her thoughts began to drift away from the present moment.\nHer mind wandered back to the countless nights spent studying under the stars, the laughter-filled moments with friends in the cafeteria, and the countless cups of coffee consumed during all-nighters. It was hard to believe that it had all flown by so quickly. Soon, she would be leaving this place behind, just like the leaves that clung to her bench for dear life.\n\nLasya's thoughts were interrupted by a gentle breeze rustling her hair, carrying with it the whispers of memories yet to come. She smiled wistfully, lost in the nostalgia of it all. What lay ahead? Would she find love, or would her heart remain as elusive as the autumn leaves that danced around her?\n\nAs the stars began their twinkling waltz across the night sky, Lasya's gaze returned to the present. The campus was alive and vibrant, yet she couldn't shake the feeling that a chapter of her life was coming to a close. Little did she know, the mysterious letter waiting in her dorm room would soon set her on a path that would change everything...\n[Story so far ends with: …usive as the autumn leaves that danced around her?\n\nAs the stars began their twinkling waltz across the night sky, Lasya's gaze returned to the present. The campus was alive and vibrant, yet she couldn't shake the feeling that a chapter of her life was coming to a close. Little did she know, the mysterious letter waiting in her dorm room would soon set her on a path that would change everything...]",
+        "ts": "01:36"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Request timed out. Try a shorter response length or a faster model.",
+        "ts": "01:38"
+      }
+    ],
+    "Story 3": [
+      {
+        "role": "user",
+        "content": "hi",
+        "ts": "12:19"
+      },
+      {
+        "role": "assistant",
+        "content": "\"First Pen\"\n\nLasya grasped her trusty pen, the one that had seen her scribble out stories of wonder and dreams of adventure. She was about to embark on a new tale – her own life story! As a collage girl with a flair for the dramatic, she knew this narrative would be nothing short of epic.\n\nThe scene unfolded before her like a canvas awaiting brushstrokes: vibrant colors of campus life, quirky characters, and the thrill of discovery. Her pen danced across the page as she chronicled her first days on campus, where she had already won the hearts of her classmates with her quick wit and fearlessness.\n\nLasya's eyes sparkled as she wrote about the time she convinced her roommate to join her in a spontaneous dance party at 2 am, much to their RA's dismay. The ink flowed like laughter and music, weaving a tapestry of memories that would make anyone who read it grin from ear to ear.\n\nWhat would happen next? Would Lasya find love amidst the chaos of college life? Only time – and her trusty pen – would tell.",
+        "ts": "12:20"
+      },
+      {
+        "role": "user",
+        "content": "when did the world war 1 happen",
+        "ts": "12:38"
+      },
+      {
+        "role": "assistant",
+        "content": "\"Mid-Chapter\"\n\nAs Lasya's pen continued to weave its magic, she didn't notice the clock ticking away on the wall. She was too busy conjuring up a scene that would transport her readers to the era of flappers and jazz. Suddenly, the room fell silent, and her roommate, Rachel, plopped down beside her.\n\n\"Hey, what's going on?\" Rachel asked, eyeing the scribbled pages. \"Are you writing about World War I?\"\n\nLasya's eyes widened in surprise. \"How did you know? I was just thinking about it!\"\n\nRachel grinned mischievously. \"You've been stuck on this one chapter for hours. Want to grab some coffee and get out of here before our next class?\"\n\nAs they stepped out into the crisp campus air, Lasya couldn't help but wonder if her pen would soon be scribbling out a tale of love amidst the war-torn battlefields. The possibilities were endless!",
+        "ts": "12:39"
+      }
+    ],
+    "Story 4": [
+      {
+        "role": "user",
+        "content": "hi",
+        "ts": "12:50"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello there! It's great to meet you! I'm NarrativeFlow, your friendly AI Story Co-Writer. What kind of story would you like to create? Would you prefer a romantic comedy, an adventurous tale, or something entirely different? Let me know, and we can start building our narrative together!",
+        "ts": "12:51"
+      },
+      {
+        "role": "user",
+        "content": "what is llms",
+        "ts": "12:53"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm only able to help with storytelling and narratives here. I can't answer general knowledge questions, but I'd love to help you build a story! What would you like to create?",
+        "ts": "12:53"
+      },
+      {
+        "role": "user",
+        "content": "explain about ollama",
+        "ts": "12:55"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm only able to help with storytelling and narratives here. I can't answer general knowledge questions, but I'd love to help you build a story! What would you like to create?",
+        "ts": "12:55"
+      },
+      {
+        "role": "user",
+        "content": "laya was sitting in the table no. 21 in acafitiriya",
+        "ts": "12:57"
+      },
+      {
+        "role": "assistant",
+        "content": "It seems we've got a starting point for our story! Laya sitting at Table No. 21 in Acavitirya sparks my curiosity. Who is Laya, and what's she doing in this place? Is it a cozy café or a bustling market? What's the atmosphere like around her?\n\nLet me ask you, what kind of character is Laya? Is she a free spirit, a bookworm, or a thrill-seeker? And what's the significance of Table No. 21? Does it hold some secret or special memory for her?\n\nAs we begin to weave our tale, I sense a hint of mystery and intrigue. Shall we explore this further and see where Laya's story takes us?",
+        "ts": "12:57"
+      }
+    ],
+    "Story 5": [
+      {
+        "role": "user",
+        "content": "write a hello world program in python",
+        "ts": "19:38"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "19:38"
+      },
+      {
+        "role": "user",
+        "content": "write a program on two sum in java",
+        "ts": "19:40"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "19:40"
+      },
+      {
+        "role": "user",
+        "content": "write a python program",
+        "ts": "19:43"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "19:43"
+      },
+      {
+        "role": "user",
+        "content": "write a program on java",
+        "ts": "19:44"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "19:44"
+      },
+      {
+        "role": "user",
+        "content": "prompt ",
+        "ts": "19:53"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "19:53"
+      },
+      {
+        "role": "user",
+        "content": "wirte a code on python two sum",
+        "ts": "19:58"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm only able to help with storytelling and narratives here. I can't answer general knowledge questions, but I'd love to help you build a story! What would you like to create?",
+        "ts": "19:59"
+      }
+    ],
+    "Story 6": [
+      {
+        "role": "user",
+        "content": "hi",
+        "ts": "21:41"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "21:41"
+      },
+      {
+        "role": "user",
+        "content": "Give me a one sentence story starter about a magic compass.",
+        "ts": "21:58"
+      },
+      {
+        "role": "assistant",
+        "content": "⚠️ Error: 500 Server Error: Internal Server Error for url: http://localhost:11434/api/generate",
+        "ts": "21:58"
+      }
+    ],
+    "Story 7": []
+  },
+  "active_chat": "Story 7",
+  "chat_counter": 7,
+  "current_page": "💬 Story Chat",
+  "model": "llama3:latest",
+  "temperature": 0.7,
+  "length_mode": "Medium",
+  "genre": "Fantasy",
+  "tone": "Funny",
+  "writing_style": "Simple English",
+  "story_context": {
+    "title": "",
+    "char_name": "",
+    "char_personality": [
+      "Brave"
+    ],
+    "perspective": "Third person",
+    "setting": ""
+  },
+  "response_mode": "Quick replies",
+  "memory_mode": "Session only",
+  "auto_continue": false,
+  "ui_theme": "Dark",
+  "font_size": 14,
+  "bubble_style": "Minimal",
+  "split_draft": "",
+  "outline": [],
+  "chapter_count": 2,
+  "right_sidebar_open": true
+}

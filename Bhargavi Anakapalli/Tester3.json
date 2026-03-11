@@ -1,0 +1,105 @@
+{
+  "logged_in": true,
+  "auth_user_id": null,
+  "auth_username": "Tester3",
+  "auth_bio": "",
+  "auth_pic": null,
+  "_profile_synced": true,
+  "user_profile": {
+    "username": "Tester3",
+    "password": "password",
+    "bio": "I love creating amazing stories."
+  },
+  "chats": {
+    "Story 1": [
+      {
+        "role": "user",
+        "content": "a lonely rabbit called bunny in a dark forest",
+        "ts": "13:17"
+      },
+      {
+        "role": "assistant",
+        "content": "The forest is alive with whispers, and in its depths, a lone rabbit named Bunny wanders, searching for connection. What kind of tale would you like to weave around this curious creature's journey? Would you like to explore the mysteries of the dark forest, uncover the secrets of Bunny's past, or perhaps see her discover a hidden world? The possibilities are endless! What's the first thread you'd like to tug on in this narrative tapestry?",
+        "ts": "13:18"
+      }
+    ],
+    "Story 2": [],
+    "Story 3": [
+      {
+        "role": "user",
+        "content": "lasya is dancing in a big hall so perfect",
+        "ts": "14:14"
+      },
+      {
+        "role": "assistant",
+        "content": "What a captivating start! Lasya dancing in a grand hall sounds like the perfect setting for a dramatic and fantastical tale. I can already envision the opulent chandeliers, the intricate tapestries, and the soft glow of candles illuminating the room.\n\nAs Lasya twirls across the hall, her movements seem to stir the very air itself. The sound of her dancing shoes tapping out a lively rhythm on the polished marble floor echoes through the space, drawing the attention of all who are present.\n\nBut what's the significance of this dance? Is Lasya performing for a special occasion, or is she trying to convey a message to the assembled crowd? And who are these people gathered to watch her, anyway? Are they nobles, commoners, or perhaps something more...unusual?\n\nLet's dive deeper into this fantastical world and uncover the secrets hidden within the swirling skirts and flashing eyes of Lasya, the enchanting dancer. What would you like to happen next in this tale?",
+        "ts": "14:14"
+      }
+    ],
+    "Story 6": [
+      {
+        "role": "user",
+        "content": "lasya is sitting on the bench ",
+        "ts": "14:02"
+      },
+      {
+        "role": "assistant",
+        "content": "The serenity of the scene! Lasya sits comfortably on the bench, her eyes gazing out at the world around her. The warm sunlight casts a gentle glow on her face, highlighting the subtle curves of her features. The soft rustle of leaves in the nearby trees creates a soothing background hum, punctuated by the occasional chirp of a bird. What's Lasya thinking about as she sits there? Is she lost in thought, pondering the mysteries of the world, or is her mind preoccupied with the worries of her daily life? Perhaps she's simply basking in the peacefulness of the moment, letting the tranquility of her surroundings wash over her. What's the story behind Lasya's bench-side contemplation? Would you like to explore this moment further, or jumpstart a new narrative thread?",
+        "ts": "14:04"
+      }
+    ],
+    "Story 7": [
+      {
+        "role": "user",
+        "content": "write code in python",
+        "ts": "14:08"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm only able to help with storytelling and narratives here. I can't answer general knowledge questions, but I'd love to help you build a story! What would you like to create?",
+        "ts": "14:08"
+      }
+    ],
+    "Story 8": [
+      {
+        "role": "user",
+        "content": "the last words of old lion in the forest",
+        "ts": "14:10"
+      },
+      {
+        "role": "assistant",
+        "content": "The last words of an old lion in the forest. A powerful and poignant tale is unfolding. I can already sense the richness of the narrative. What kind of story would you like to weave around these enigmatic final words? Would you like to explore the lion's life story, its struggles and triumphs, as it approaches the end of its days? Or perhaps you'd like to delve into the world beyond, where its legacy will live on? The possibilities are endless. What's the direction you'd like to take this story in?",
+        "ts": "14:11"
+      }
+    ]
+  },
+  "active_chat": "Story 8",
+  "active_story_id": null,
+  "chat_counter": 8,
+  "current_page": "💬 Story Chat",
+  "model": "llama3:latest",
+  "temperature": 0.7,
+  "length_mode": "Medium",
+  "genre": "Fantasy",
+  "tone": "Dramatic",
+  "writing_style": "Descriptive",
+  "story_context": {
+    "title": "",
+    "char_name": "",
+    "char_personality": [
+      "Brave"
+    ],
+    "perspective": "Third person",
+    "setting": ""
+  },
+  "response_mode": "Detailed narration",
+  "memory_mode": "Session only",
+  "auto_continue": false,
+  "ui_theme": "Dark",
+  "font_size": 15,
+  "bubble_style": "Glass style",
+  "split_draft": "",
+  "outline": [],
+  "chapter_count": 1,
+  "right_sidebar_open": false
+}

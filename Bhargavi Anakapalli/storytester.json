@@ -1,0 +1,55 @@
+{
+  "logged_in": true,
+  "auth_username": "storytester",
+  "auth_bio": "",
+  "auth_pic": null,
+  "_profile_synced": true,
+  "user_profile": {
+    "username": "storytester",
+    "password": "password",
+    "bio": "I love creating amazing stories."
+  },
+  "chats": {
+    "Story 1": [
+      {
+        "role": "user",
+        "content": "a lonely rabbit called bunny in aforest",
+        "ts": "12:12"
+      },
+      {
+        "role": "assistant",
+        "content": "In the whispering woods, a lone rabbit named Bunny wandered, her soft paws barely making a sound on the forest floor. The trees, like nature's sentinels, stood watchful, their leafy canopies a vibrant green. A gentle breeze carried the sweet scent of blooming wildflowers, and the warm sunlight filtering through the canopy above cast dappled shadows on the forest floor.\n\nWhat kind of story would you like to create with Bunny as the protagonist? Would you like to explore the mystical forces at work in the forest, or perhaps follow her as she discovers hidden treasures or forges unexpected friendships? Let's spin a tale together!",
+        "ts": "12:13"
+      }
+    ],
+    "Story 2": []
+  },
+  "active_chat": "Story 2",
+  "chat_counter": 2,
+  "current_page": "💬 Story Chat",
+  "model": "llama3:latest",
+  "temperature": 0.7,
+  "length_mode": "Medium",
+  "genre": "Fantasy",
+  "tone": "Dramatic",
+  "writing_style": "Descriptive",
+  "story_context": {
+    "title": "",
+    "char_name": "",
+    "char_personality": [
+      "Brave"
+    ],
+    "perspective": "Third person",
+    "setting": ""
+  },
+  "response_mode": "Detailed narration",
+  "memory_mode": "Session only",
+  "auto_continue": false,
+  "ui_theme": "Dark",
+  "font_size": 15,
+  "bubble_style": "Glass style",
+  "split_draft": "",
+  "outline": [],
+  "chapter_count": 1,
+  "right_sidebar_open": false
+}
