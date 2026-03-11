@@ -26,7 +26,7 @@ Built as part of the **Infosys Springboard — Narrative Flow** project by **Sub
 - **8 genres** — Fantasy, Sci-Fi, Thriller, Romance, Horror, Mystery, Historical, Literary
 - **6 tones** — Cinematic, Lyrical, Dark & Gritty, Whimsical, Epic, Intimate
 - **8 scene moods** — dynamically shapes the AI's emotional register per passage
-- Auto-extraction of characters and world context from generated prose
+- User's input of characters and world context for prose to be generated
 
 ### ✦ Book Viewer
 - Dual-page open book spread — reads like a physical novel
