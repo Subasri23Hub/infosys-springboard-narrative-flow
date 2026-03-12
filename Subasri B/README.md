@@ -89,8 +89,8 @@ Subasri/
 ├── auth.py                         # Authentication, session management, history I/O
 └── docs/
     ├── Phase1_Streamlit & UI.docx         # Phase 1 — UI & Streamlit Documentation
-    ├── Phase2_Olama Integration.docx  # Phase 2 — Ollama LLM Integration
-    └── Phase3_The Guardrails.docx           # Live Demo Script
+    ├── Phase2_Olama Integration.docx      # Phase 2 — Ollama LLM Integration
+    └── Phase3_The Guardrails.docx         # Phase 3 - The Guardrails
 ```
 
 <br>
