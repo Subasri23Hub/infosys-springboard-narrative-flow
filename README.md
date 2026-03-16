@@ -175,4 +175,7 @@ Full phase-wise technical documentation authored by the team lead is available i
 
 ---
 
+## License
+This project is licensed under the MIT License.
+
 *Narrative Flow — Story Co-Writer · Infosys Springboard Team Project*
